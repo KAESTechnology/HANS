@@ -1,4 +1,6 @@
-# HANS — Hardware-Aware Neural Storage
+# :warning: :construction: HANS — Hardware-Aware Neural Storage :construction: :warning:
+> [!CAUTION]
+> This repository is currently under active development and not yet production-ready!
 
 HANS is an open-source, AI-native, cache-first storage system designed to
 maximize performance for modern AI workloads by being deeply aware of hardware —
