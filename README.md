@@ -1,4 +1,4 @@
-# :warning: :construction: HANS — Hardware-Aware Neural Storage :construction: :warning:
+# :warning::construction:HANS — Hardware-Aware Neural Storage:construction::warning:
 > [!CAUTION]
 > This repository is currently under active development and not yet production-ready!
 
