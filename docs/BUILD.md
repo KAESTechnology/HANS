@@ -138,7 +138,7 @@ hans/
 │
 ├── eviction/
 │   ├── EvictionEngine.cpp
-│   ├── Policies/
+│   ├── policies/
 │       ├── JobAwareLRU.cpp
 │       └── GpuPressureAware.cpp
 │
@@ -153,13 +153,17 @@ hans/
 │   ├── Logger.h
 │   └── Logger.cpp
 │
+├── benchmarks/
+│   ├── micro/
+│   ├── training/
+│   └── edge/
+|
 ├── client/
 │   ├── FuseClient/
 │   ├── Python/
 │   └── Native/
 │
 ├── tests/
-│   ├── microbench/
 │   ├── integration/
 │   └── gpu/
 │
