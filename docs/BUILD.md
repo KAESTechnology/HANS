@@ -109,7 +109,6 @@ hans/
 ├── tiers/
 │   ├── TierManager.h
 │   ├── TierManager.cpp
-│   ├── TierType.h
 │   ├── RamTier.cpp
 │   ├── NvmeTier.cpp
 │   └── VramTier.cpp        # Ephemeral, optional
