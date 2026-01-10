@@ -193,7 +193,7 @@ Early builds prioritize correctness and instrumentation.
 
 ## Build Steps
 
-> ⚠️ These steps will change as HANS diverges further from Alluxio.
+> ⚠️ These steps will change as HANS evolves.
 
 ### 1. Clone the Repository
 
